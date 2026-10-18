@@ -1,0 +1,23 @@
+Total Sales =
+SUM ( gold_fact_sales[sales_amount] )
+
+Total Cost =
+SUM ( gold_fact_sales[cost_amount] )
+
+Gross Profit =
+[Total Sales] - [Total Cost]
+
+Gross Margin % =
+DIVIDE ( [Gross Profit], [Total Sales], 0 )
+
+Total Orders =
+DISTINCTCOUNT ( gold_fact_sales[order_id] )
+
+Units Sold =
+SUM ( gold_fact_sales[quantity] )
+
+Average Order Value =
+DIVIDE ( [Total Sales], [Total Orders], 0 )
+
+Average Selling Price =
+DIVIDE ( [Total Sales], [Units Sold], 0 )

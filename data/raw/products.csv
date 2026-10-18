@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_cost,list_price
+P001,Laptop,Technology,2127.05,3458.58
+P002,Monitor,Technology,5228.32,6824.05
+P003,Keyboard,Technology,17759.86,21732.33
+P004,Mouse,Technology,1093.0,1794.67
+P005,Headset,Technology,13479.13,20680.28
+P006,Webcam,Technology,10062.72,16030.6
+P007,SSD,Technology,12698.71,19164.55
+P008,Router,Technology,8496.81,11469.22
+P009,Printer,Technology,3314.76,4951.63
+P010,Tablet,Technology,19647.1,31046.75
+P011,Notebook,Office Supplies,19489.4,29998.28
+P012,Pen Set,Office Supplies,4877.0,7569.37
+P013,Paper Pack,Office Supplies,15334.39,21196.34
+P014,Stapler,Office Supplies,12298.34,19784.77
+P015,File Folder,Office Supplies,2740.18,3333.89
+P016,Whiteboard,Office Supplies,10264.98,14530.76
+P017,Desk Organizer,Office Supplies,12331.64,16137.79
+P018,Labels,Office Supplies,16635.08,22811.46
+P019,Calculator,Office Supplies,17944.94,28640.31
+P020,Marker Set,Office Supplies,9434.16,15126.99
+P021,Office Chair,Furniture,9854.43,12116.8
+P022,Standing Desk,Furniture,18963.97,26076.12
+P023,Bookshelf,Furniture,16558.95,25996.42
+P024,Meeting Table,Furniture,6158.66,9477.18
+P025,Drawer Unit,Furniture,10702.37,13587.97
+P026,Desk Lamp,Furniture,9722.01,14648.86
+P027,Foot Rest,Furniture,5220.1,6879.69
+P028,Visitor Chair,Furniture,19655.15,23395.31
+P029,Side Table,Furniture,3386.21,4542.66
+P030,Storage Cabinet,Furniture,3429.49,4310.79

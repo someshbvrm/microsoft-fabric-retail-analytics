@@ -1,0 +1,121 @@
+customer_id,customer_name,segment,city,state,region,join_date
+C0001,Aarav Kumar,Home Office,Bengaluru,Karnataka,South,2024-07-17
+C0002,Priya Rao,Consumer,Mumbai,Maharashtra,West,2023-07-29
+C0003,Meera Iyer,Corporate,Bengaluru,Karnataka,South,2023-03-07
+C0004,Ananya Reddy,Consumer,Hyderabad,Telangana,South,2024-04-21
+C0005,Arjun Das,Consumer,Hyderabad,Telangana,South,2026-01-21
+C0006,Priya Rao,Corporate,Noida,Uttar Pradesh,North,2024-07-23
+C0007,Rohan Sharma,Home Office,Hyderabad,Telangana,South,2025-05-15
+C0008,Vikram Singh,Consumer,Delhi,Delhi,North,2024-03-16
+C0009,Ananya Reddy,Consumer,Delhi,Delhi,North,2025-02-17
+C0010,Kavya Nair,Corporate,Bengaluru,Karnataka,South,2024-06-25
+C0011,Neha Gupta,Home Office,Hyderabad,Telangana,South,2023-09-13
+C0012,Ananya Reddy,Home Office,Noida,Uttar Pradesh,North,2024-08-23
+C0013,Meera Iyer,Consumer,Delhi,Delhi,North,2023-05-23
+C0014,Priya Rao,Corporate,Hyderabad,Telangana,South,2023-06-13
+C0015,Ananya Reddy,Corporate,Mumbai,Maharashtra,West,2024-07-23
+C0016,Kavya Nair,Consumer,Kolkata,West Bengal,East,2025-01-28
+C0017,Priya Rao,Home Office,Delhi,Delhi,North,2024-06-30
+C0018,Meera Iyer,Home Office,Bengaluru,Karnataka,South,2023-12-17
+C0019,Rohan Sharma,Corporate,Mumbai,Maharashtra,West,2025-02-16
+C0020,Arjun Das,Consumer,Pune,Maharashtra,West,2024-10-26
+C0021,Priya Rao,Consumer,Hyderabad,Telangana,South,2024-10-08
+C0022,Vikram Singh,Consumer,Noida,Uttar Pradesh,North,2024-03-08
+C0023,Priya Rao,Home Office,Delhi,Delhi,North,2025-10-19
+C0024,Neha Gupta,Consumer,Noida,Uttar Pradesh,North,2024-06-26
+C0025,Priya Rao,Home Office,Chennai,Tamil Nadu,South,2026-02-23
+C0026,Meera Iyer,Corporate,Pune,Maharashtra,West,2026-04-10
+C0027,Kavya Nair,Consumer,Noida,Uttar Pradesh,North,2023-10-11
+C0028,Ananya Reddy,Consumer,Kolkata,West Bengal,East,2023-08-13
+C0029,Rohan Sharma,Home Office,Chennai,Tamil Nadu,South,2025-05-14
+C0030,Sai Patel,Corporate,Bengaluru,Karnataka,South,2025-08-16
+C0031,Arjun Das,Consumer,Pune,Maharashtra,West,2023-08-23
+C0032,Kavya Nair,Consumer,Pune,Maharashtra,West,2024-08-24
+C0033,Rohan Sharma,Corporate,Noida,Uttar Pradesh,North,2023-01-07
+C0034,Arjun Das,Consumer,Pune,Maharashtra,West,2025-11-05
+C0035,Vikram Singh,Home Office,Bengaluru,Karnataka,South,2025-11-05
+C0036,Rohan Sharma,Corporate,Mumbai,Maharashtra,West,2023-11-27
+C0037,Meera Iyer,Corporate,Hyderabad,Telangana,South,2025-09-27
+C0038,Ananya Reddy,Corporate,Hyderabad,Telangana,South,2024-09-21
+C0039,Aarav Kumar,Consumer,Mumbai,Maharashtra,West,2026-03-07
+C0040,Ananya Reddy,Home Office,Bengaluru,Karnataka,South,2025-09-22
+C0041,Arjun Das,Consumer,Bengaluru,Karnataka,South,2023-09-20
+C0042,Arjun Das,Consumer,Kolkata,West Bengal,East,2024-06-26
+C0043,Priya Rao,Home Office,Noida,Uttar Pradesh,North,2024-02-16
+C0044,Sai Patel,Home Office,Pune,Maharashtra,West,2025-02-03
+C0045,Arjun Das,Corporate,Kolkata,West Bengal,East,2023-09-05
+C0046,Priya Rao,Consumer,Mumbai,Maharashtra,West,2024-11-23
+C0047,Meera Iyer,Home Office,Hyderabad,Telangana,South,2024-04-16
+C0048,Aarav Kumar,Consumer,Mumbai,Maharashtra,West,2023-05-01
+C0049,Ananya Reddy,Consumer,Mumbai,Maharashtra,West,2024-11-07
+C0050,Arjun Das,Consumer,Bengaluru,Karnataka,South,2024-07-24
+C0051,Priya Rao,Home Office,Kolkata,West Bengal,East,2023-09-28
+C0052,Priya Rao,Corporate,Kolkata,West Bengal,East,2025-04-13
+C0053,Ananya Reddy,Consumer,Mumbai,Maharashtra,West,2025-06-01
+C0054,Sai Patel,Corporate,Delhi,Delhi,North,2025-08-14
+C0055,Ananya Reddy,Consumer,Hyderabad,Telangana,South,2025-04-04
+C0056,Ananya Reddy,Consumer,Delhi,Delhi,North,2024-01-28
+C0057,Arjun Das,Corporate,Mumbai,Maharashtra,West,2023-10-15
+C0058,Rohan Sharma,Corporate,Noida,Uttar Pradesh,North,2025-08-05
+C0059,Ananya Reddy,Corporate,Mumbai,Maharashtra,West,2026-02-01
+C0060,Aarav Kumar,Home Office,Bengaluru,Karnataka,South,2026-01-12
+C0061,Ananya Reddy,Consumer,Hyderabad,Telangana,South,2023-12-07
+C0062,Neha Gupta,Corporate,Noida,Uttar Pradesh,North,2024-03-13
+C0063,Aarav Kumar,Consumer,Noida,Uttar Pradesh,North,2025-02-15
+C0064,Sai Patel,Corporate,Hyderabad,Telangana,South,2025-07-20
+C0065,Sai Patel,Home Office,Pune,Maharashtra,West,2026-02-12
+C0066,Rohan Sharma,Consumer,Kolkata,West Bengal,East,2024-08-30
+C0067,Aarav Kumar,Home Office,Mumbai,Maharashtra,West,2026-01-15
+C0068,Kavya Nair,Consumer,Hyderabad,Telangana,South,2023-04-13
+C0069,Arjun Das,Home Office,Kolkata,West Bengal,East,2023-11-19
+C0070,Arjun Das,Consumer,Hyderabad,Telangana,South,2024-01-16
+C0071,Meera Iyer,Consumer,Bengaluru,Karnataka,South,2024-04-26
+C0072,Ananya Reddy,Home Office,Noida,Uttar Pradesh,North,2024-05-19
+C0073,Meera Iyer,Consumer,Hyderabad,Telangana,South,2025-05-08
+C0074,Vikram Singh,Consumer,Delhi,Delhi,North,2024-10-05
+C0075,Vikram Singh,Corporate,Mumbai,Maharashtra,West,2023-09-26
+C0076,Neha Gupta,Corporate,Pune,Maharashtra,West,2023-05-29
+C0077,Neha Gupta,Home Office,Hyderabad,Telangana,South,2026-02-27
+C0078,Ananya Reddy,Home Office,Bengaluru,Karnataka,South,2024-03-12
+C0079,Rohan Sharma,Corporate,Pune,Maharashtra,West,2023-05-21
+C0080,Kavya Nair,Corporate,Mumbai,Maharashtra,West,2023-11-20
+C0081,Arjun Das,Home Office,Kolkata,West Bengal,East,2024-09-11
+C0082,Arjun Das,Corporate,Hyderabad,Telangana,South,2023-08-01
+C0083,Vikram Singh,Consumer,Chennai,Tamil Nadu,South,2023-08-08
+C0084,Vikram Singh,Corporate,Chennai,Tamil Nadu,South,2024-03-07
+C0085,Priya Rao,Home Office,Delhi,Delhi,North,2024-06-24
+C0086,Vikram Singh,Consumer,Kolkata,West Bengal,East,2023-07-09
+C0087,Vikram Singh,Consumer,Noida,Uttar Pradesh,North,2023-01-08
+C0088,Rohan Sharma,Home Office,Delhi,Delhi,North,2024-06-20
+C0089,Neha Gupta,Home Office,Chennai,Tamil Nadu,South,2025-05-25
+C0090,Ananya Reddy,Consumer,Hyderabad,Telangana,South,2023-11-02
+C0091,Kavya Nair,Home Office,Hyderabad,Telangana,South,2026-02-05
+C0092,Sai Patel,Consumer,Chennai,Tamil Nadu,South,2023-03-27
+C0093,Kavya Nair,Consumer,Pune,Maharashtra,West,2025-01-02
+C0094,Priya Rao,Home Office,Mumbai,Maharashtra,West,2023-07-30
+C0095,Arjun Das,Corporate,Delhi,Delhi,North,2023-11-13
+C0096,Rohan Sharma,Consumer,Mumbai,Maharashtra,West,2025-04-24
+C0097,Rohan Sharma,Home Office,Hyderabad,Telangana,South,2024-11-11
+C0098,Priya Rao,Corporate,Noida,Uttar Pradesh,North,2023-11-23
+C0099,Sai Patel,Consumer,Bengaluru,Karnataka,South,2025-08-21
+C0100,Priya Rao,Corporate,Mumbai,Maharashtra,West,2024-12-17
+C0101,Priya Rao,Consumer,Pune,Maharashtra,West,2023-02-18
+C0102,Sai Patel,Corporate,Mumbai,Maharashtra,West,2024-07-24
+C0103,Vikram Singh,Corporate,Bengaluru,Karnataka,South,2025-11-09
+C0104,Arjun Das,Corporate,Noida,Uttar Pradesh,North,2023-02-26
+C0105,Vikram Singh,Consumer,Bengaluru,Karnataka,South,2026-04-04
+C0106,Aarav Kumar,Consumer,Pune,Maharashtra,West,2025-06-08
+C0107,Kavya Nair,Corporate,Delhi,Delhi,North,2025-11-13
+C0108,Sai Patel,Home Office,Bengaluru,Karnataka,South,2024-01-25
+C0109,Aarav Kumar,Home Office,Pune,Maharashtra,West,2025-06-12
+C0110,Arjun Das,Home Office,Hyderabad,Telangana,South,2024-02-08
+C0111,Sai Patel,Consumer,Delhi,Delhi,North,2024-11-07
+C0112,Ananya Reddy,Home Office,Delhi,Delhi,North,2024-09-07
+C0113,Sai Patel,Corporate,Pune,Maharashtra,West,2025-04-04
+C0114,Arjun Das,Consumer,Pune,Maharashtra,West,2024-01-28
+C0115,Sai Patel,Home Office,Noida,Uttar Pradesh,North,2023-12-23
+C0116,Sai Patel,Home Office,Pune,Maharashtra,West,2023-01-01
+C0117,Vikram Singh,Consumer,Pune,Maharashtra,West,2025-05-30
+C0118,Neha Gupta,Corporate,Delhi,Delhi,North,2025-06-24
+C0119,Arjun Das,Corporate,Mumbai,Maharashtra,West,2023-12-14
+C0120,Vikram Singh,Home Office,Bengaluru,Karnataka,South,2024-11-17
