@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Microsoft Fabric Retail Analytics
 
 A GitHub-ready end-to-end Microsoft Fabric portfolio project using **OneLake, Lakehouse, Delta tables, PySpark, Data Factory pipelines, SQL analytics, Direct Lake and Power BI**.
@@ -134,3 +135,7 @@ A production version should add:
 
 ## Data
 All included source data is synthetic and safe for a public GitHub portfolio repository.
+=======
+# microsoft-fabric-retail-analytics
+End-to-end Microsoft Fabric retail analytics project using OneLake, Lakehouse, PySpark, Data Factory, Medallion Architecture, Delta Lake, SQL Analytics, Direct Lake, Power BI, data quality checks, and GitHub-based CI/CD.
+>>>>>>> 899b48e022bf73f26a7e512d8be3e77f392b7424
