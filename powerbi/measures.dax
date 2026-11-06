@@ -1,3 +1,5 @@
+// Core KPIs (table: gold_fact_sales)
+
 Total Sales =
 SUM ( gold_fact_sales[sales_amount] )
 
@@ -8,7 +10,7 @@ Gross Profit =
 [Total Sales] - [Total Cost]
 
 Gross Margin % =
-DIVIDE ( [Gross Profit], [Total Sales], 0 )
+DIVIDE ( [Gross Profit], [Total Sales] )
 
 Total Orders =
 DISTINCTCOUNT ( gold_fact_sales[order_id] )
@@ -17,7 +19,22 @@ Units Sold =
 SUM ( gold_fact_sales[quantity] )
 
 Average Order Value =
-DIVIDE ( [Total Sales], [Total Orders], 0 )
+DIVIDE ( [Total Sales], [Total Orders] )
 
 Average Selling Price =
-DIVIDE ( [Total Sales], [Units Sold], 0 )
+DIVIDE ( [Total Sales], [Units Sold] )
+
+// Time intelligence
+// Requires gold_dim_date marked as the date table and related to gold_fact_sales[order_date]
+
+Sales YTD =
+TOTALYTD ( [Total Sales], gold_dim_date[date] )
+
+Gross Profit YTD =
+TOTALYTD ( [Gross Profit], gold_dim_date[date] )
+
+Sales PY =
+CALCULATE ( [Total Sales], SAMEPERIODLASTYEAR ( gold_dim_date[date] ) )
+
+Sales YoY % =
+DIVIDE ( [Total Sales] - [Sales PY], [Sales PY] )
